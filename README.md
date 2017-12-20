@@ -1,4 +1,4 @@
-#Blog de prueba de desarrollo de aplicaciones en Phoenix Framework
+# Blog de prueba de desarrollo de aplicaciones en Phoenix Framework
 
 Bienvenido, si estás aquí es para poder aprender a utilizar el nuevo
 framework Phoenix, basado en Elixir, a su vez basado en Erlang, para
