@@ -1,6 +1,6 @@
 <div class="jumbotron">
   <h2><%= gettext "Welcome to %{name}", name: "Phoenix!" %></h2>
-  <p class="lead">Y esto es Phoenix en C9 prueba GIT y con Windows</p>
+  <p class="lead">Y esto es Phoenix en C9 prueba GIT y con Windows correccion</p>
 </div>
 
 <div class="row marketing">
